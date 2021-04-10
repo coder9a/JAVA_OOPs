@@ -1,4 +1,4 @@
-//Initailizing the instace variables using default constructor
+//Initailizing the instace variables using default constructor & Parameterized Constructor
 class Person1
 {
     private String name;
